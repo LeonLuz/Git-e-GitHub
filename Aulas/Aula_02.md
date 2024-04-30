@@ -1,4 +1,4 @@
-# Salvando Alterações no Repositório Local
+# Salvando Alterações no Repositório Local 📝
 
 ### Comandos
   - Para adicionar arquivos na área de preparação utilize:
@@ -22,5 +22,3 @@
     ```
     git log
     ```
-
-  
