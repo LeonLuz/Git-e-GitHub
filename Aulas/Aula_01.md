@@ -3,14 +3,10 @@
 ### Criando um repositório local:
  - Criar uma pasta
  - Abrir com o Git Bash
- - Utilizar os seguntes comandos:
+ - Para iniciar o repositório utilize:
 
 ```
 git init
-git add Arquivo
-git . (adiciona todos os arquivos da pasta na área de preparação).
-git commit -m "Descrição do commit"
-git branch -M main
 ```
 ### Criando um repositório remoto:
   - Entrar no GitHub
