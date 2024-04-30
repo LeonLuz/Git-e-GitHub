@@ -1,4 +1,4 @@
-# Criando e Clonando Repositórios
+# Criando e Clonando Repositórios 📝
 
 ### Criando um repositório local:
  - Criar uma pasta
@@ -19,4 +19,3 @@
  ```
  git clone https://... (url do repositório remoto)
  ```
-
