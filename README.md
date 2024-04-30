@@ -1,4 +1,3 @@
-
 # DIO | Git e GitHub
 
 Repositório para armazenar resumos sobre o Git e GitHub 
@@ -12,14 +11,14 @@ do curso Versionamento de Código com Git e GitHub.
 
 ```
 git init
-git add Nome do arquivo
+git add Arquivo
 git commit -m "Descrição do commit"
-git remote add origin https:// link do repositório
+git remote add origin https://... (url do repositório remoto)
 git push -u origin main
 
 ```
 
-| Aula | Links |
+| Aulas | Links |
 |------|--------|
 Criando e Clonando Repositórios | [Link](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/a377a00b-461c-4ab0-8258-3addd2fef14c?back=/track/santander-2024-backend-com-java&tab=undefined&moduleId=undefined)
 Salvando Alterações no Repositório Local | [Link](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/santander-2024-backend-com-java&tab=undefined&moduleId=undefined)
