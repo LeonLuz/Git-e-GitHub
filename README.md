@@ -11,7 +11,7 @@ do curso Versionamento de Código com Git e GitHub.
 
 ```
 git init
-git add Arquivo
+git add <file>
 git commit -m "Descrição do commit"
 git remote add origin https://... (url do repositório remoto)
 git push -u origin main
