@@ -6,11 +6,11 @@
     ou
     git add . (adiciona todos os arquivos de uma vez)
     
-### Para salvar as alterações na working tree utilize:
+### Para salvar as alterações na árvore de trabalho utilize:
 
     git commit -m "Descrição do commit"
     
-### Para visualizar o status da working tree utilize:
+### Para visualizar o status da árvore de trabalho utilize:
 
     git status
 
