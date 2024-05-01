@@ -16,13 +16,17 @@
     
     git reflog
 
-#### Obs 1: git reset possui 3 opções, são elas:
+### Observações:
+
+#### Não utilizar o "git commit --amend" em commits cujo push já foi realizado.
+
+#### git reset possui 3 opções, são elas:
 
   - git reset --soft (desfaz o commit e retorna os arquivos para a área de preparação)
-  - git reset --mixed (desfaz o commit e retorna os arquivos para a árvore de trabalho)
+  - git reset --mixed (desfaz o commit e retorna os arquivos para a árvore de trabalho, sendo essa a opção padrão)
   - git reset --hard (desfaz o commit e apaga os arquivos)
 
-#### Obs 2: git reset e git restore podem ser utilizados para remover arquivos da área de preparação:
+#### git reset e git restore podem ser utilizados para remover arquivos da área de preparação:
 
     git reset <file>
     ou
