@@ -2,7 +2,7 @@
 
 ### Para adicionar arquivos na área de preparação utilize:
     
-    git add Arquivo
+    git add <file>
     ou
     git add . (adiciona todos os arquivos de uma vez)
     
