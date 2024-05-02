@@ -27,7 +27,7 @@
     git branch -d <branch>
 
 ## Possível Conflito:
-  - Conflito de merge: acontece quando mais de uma pessoa altera a mesma linha de código e envia para o repositório remoto, causando um conflito de versões.
+  - Conflito de merge: acontece quando utilizamos o git pull em um repositório compartilhado sem a verificar os conflitos de versões.
 
 ### Observações:
 
