@@ -8,15 +8,11 @@ do curso Versionamento de Código com Git e GitHub.
 - [Documentação GitHub](https://docs.github.com/pt).
 
 ## 💻Resumo das Aulas
-
-```
-git init
-git add <file>
-git commit -m "Descrição do commit"
-git remote add origin https://... (url do repositório remoto)
-git push -u origin main
-
-```
+    git init
+    git add <file>
+    git commit -m "Descrição do commit"
+    git remote add origin https://... (url do repositório remoto)
+    git push -u origin main
 
 | Aulas | Links |
 |------|--------|
