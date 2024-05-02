@@ -12,10 +12,7 @@
   - Criar novo repositório
 
 ### Enviar o repositório local para o remoto:
- ```
- git remote add origin main https://... (url do repositório remoto)
- ```
+    git remote add origin main https://... (url do repositório remoto)
+
 ### Clonar o repositório remoto no local:
- ```
- git clone https://... (url do repositório remoto)
- ```
+    git clone https://... (url do repositório remoto)
